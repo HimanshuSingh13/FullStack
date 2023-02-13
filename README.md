@@ -1,2 +1,0 @@
-# FullStack
-A capstone project 
